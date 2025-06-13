@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempus</title>
+    <link rel="icon" href="images/Logowatchicon.png" type="image/png">
+    <link rel="stylesheet" href="styles/catalog.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css">
+    <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css">
+</head>
+<body>
+    <header>
+      <nav role="navigation">
+        <div id="menuToggle">
+          <input type="checkbox" id="menuCheckbox" />
+          <span></span>
+          <span></span>
+          <span></span>
+          <ul id="menu">
+            <div class="menu-logo">
+              <img src="images/Logowatch.png"><p>Tempus</p>
+            </div>
+            <hr>
+            <li>
+              <a href="index.html">
+                <i class="fi fi-br-home"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Головна</label>
+              </a>
+            </li>
+            <hr>
+            <li>
+              <a href="cart.html">
+                <i class="fi fi-br-shopping-cart"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Кошик</label>
+              </a>
+            </li>
+            <li>
+              <a href="catalog.html">
+                <i class="fi fi-rr-apps"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Каталог</label>
+              </a>
+            </li>
+            <hr>
+            <li>
+              <a href="conditions.html">
+                <i class="fi fi-rr-interrogation"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Умови використання сайту</label>
+              </a>
+            </li>
+            <li>
+              <a href="aboutUs.html">
+                <i class="fi fi-br-info"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Про нас</label>
+              </a>
+            </li>
+            <li>
+              <a href="contacts.html">
+                <i class="fi fi-rr-phone-call"></i>
+                <label for="menuCheckbox" onclick="this.parentNode.click();">Контакти</label>
+              </a>
+            </li>
+            <hr>
+            <div class="menuMedia">
+              <p>Ми в соціальних мережах</p>
+              <div class="menu-social-icons">
+                <a href="https://www.tiktok.com/uk-UA/"><i class="fi fi-brands-tik-tok"></i></a>
+                <a href="https://desktop.telegram.org/?setln=en"><i class="fi fi-brands-telegram"></i></a>
+                <a href="https://www.facebook.com/"><i class="fi fi-brands-facebook"></i></a>
+                <a href="https://www.youtube.com/"><i class="fi fi-brands-youtube"></i></a>
+                <a href="https://www.instagram.com/"><i class="fi fi-brands-instagram"></i></a>
+                <a href="https://www.youtube.com/"><i class="fi fi-brands-twitter-alt"></i></a>
+              </div>
+            </div>
+            
+          </ul>
+        </div>
+      </nav>
+      <div class="logo" onclick="window.location.href='index.html';">
+        <img src="images/Logowatch.png"><p>Tempus</p>
+        
+      </div>
+      <div class="catalogButton" onclick="window.location.href='catalog.html';">
+        <i class="fi fi-rr-apps"></i><p>Каталог</p>
+      </div>
+      <div class="wrap">
+        <div class="search">
+            <input type="text" class="searchTerm" placeholder="Пошук...">
+            <button type="submit" class="searchButton">
+              <i class="fi fi-rr-search"></i><p>Знайти</p>
+          </button>
+        </div>
+      </div>
+      <div class="cartButton" onclick="window.location.href='cart.html';"><i class="fi fi-br-shopping-cart"></i><p>Кошик</p></div>
+    </header>
+    <main>
+      <div>
+        <h2>Усі бренди</h2>
+        <hr>
+        <div class="brand-buttons">
+          <a href="usefilter.html?brand=CASIO">CASIO</a>
+          <a href="usefilter.html?brand=SEIKO">SEIKO</a>
+          <a href="usefilter.html?brand=TIMEX">TIMEX</a>
+          <a href="usefilter.html?brand=TISSOT">TISSOT</a>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="footer-logo">
+        <img src="images/Logowatch.png"><p>Tempus</p>
+      </div>
+      <div class="content-footer">
+        <div class="menuMedia-footer">
+          <p>Ми в соціальних мережах</p>
+            <div class="menu-social-icons">
+              <a href="https://www.tiktok.com/uk-UA/"><i class="fi fi-brands-tik-tok"></i></a>
+              <a href="https://desktop.telegram.org/?setln=en"><i class="fi fi-brands-telegram"></i></a>
+              <a href="https://www.facebook.com/"><i class="fi fi-brands-facebook"></i></a>
+              <a href="https://www.youtube.com/"><i class="fi fi-brands-youtube"></i></a>
+              <a href="https://www.instagram.com/"><i class="fi fi-brands-instagram"></i></a>
+              <a href="https://www.youtube.com/"><i class="fi fi-brands-twitter-alt"></i></a>   
+            </div>
+        </div>
+        <div class="footer-divider"></div>
+        <div class="footer-info">
+          <p>Інформація про компанію</p>
+          <a href="aboutUs.html">Про нас</a>
+          <a href="conditions.html">Умови використання сайту</a>
+          <a href="purchase.html">Що можна придбати у нас</a>
+        </div>
+        <div class="footer-divider"></div>
+
+        <div class="support-footer">
+          <p>Допомога</p>
+          <a href="delivery.html">Доставка</a>
+          <a href="payment.html">Оплата</a>
+          <a href="credit.html">Кредит</a>
+          <a href="warranty.html">Гарантія</a>
+          <a href="returnItem.html">Повернення товару</a>
+        </div>
+        <div class="footer-divider"></div>
+        <div class="footer-contact">
+          <p>Номер телефона для зв'язку</p>
+          <p>+38 (095) 018-75-39</p>
+        </div>
+      </div>
+      <hr style="color: aliceblue; margin-top: 50px;">
+      <div class="footer-out">
+        <p>© 2001–2025 Інтернет-магазин «Tempus™» — Вчасно. Стильно. Надійно. ТМ використовується на підставі ліцензії правовласника TempusGroup</p>
+      </div>
+    </footer>
+    <script type="module" src="scripts/search.js"></script>
+    <script src="scripts/searchForm.js"></script>
+</body>
+</html>

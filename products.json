@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "CASIO MTP-1381D-1AVDF",
+    "brand": "CASIO",
+    "price": 3400,
+    "image": "images/CASIO MTP-1381D-1AVDF.jpg",
+    "isRecommended": false,
+    "isPromo": true,
+    "isSaleOfDay": true
+  },
+  {
+    "id": 2,
+    "name": "CASIO MTP-V002D-1B3",
+    "brand": "CASIO",
+    "price": 1700,
+    "image": "images/CASIO MTP-V002D-1B3.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 3,
+    "name": "CASIO MQ-24-1E",
+    "brand": "CASIO",
+    "price": 2200,
+    "image": "images/CASIO MQ-24-1E.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 4,
+    "name": "CASIO MTP-VT01B-1B",
+    "brand": "CASIO",
+    "price": 3170,
+    "image": "images/CASIO MTP-VT01B-1B.jpg",
+    "isRecommended": true,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 5,
+    "name": "CASIO MTP-VD03D-1A",
+    "brand": "CASIO",
+    "price": 2300,
+    "image": "images/CASIO MTP-VD03D-1A.jpg",
+    "isRecommended": false,
+    "isPromo": true,
+    "isSaleOfDay": true
+  },
+  {
+    "id": 6,
+    "name": "SEIKO SRPH87K1",
+    "brand": "SEIKO",
+    "price": 15500,
+    "image": "images/SEIKO SRPH87K1.jpg",
+    "isRecommended": false,
+    "isPromo": true,
+    "isSaleOfDay": true
+  },
+  {
+    "id": 7,
+    "name": "SEIKO SUR343P1",
+    "brand": "SEIKO",
+    "price": 12700,
+    "image": "images/SEIKO SUR343P1.jpg",
+    "isRecommended": false,
+    "isPromo": true,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 8,
+    "name": "SEIKO SSB387P1",
+    "brand": "SEIKO",
+    "price": 20700,
+    "image": "images/SEIKO SSB387P1.jpg",
+    "isRecommended": true,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 9,
+    "name": "SEIKO SRPH89K1",
+    "brand": "SEIKO",
+    "price": 15500,
+    "image": "images/SEIKO SRPH89K1.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 10,
+    "name": "SEIKO SUR459P1",
+    "brand": "SEIKO",
+    "price": 12800,
+    "image": "images/SEIKO SUR459P1.jpg",
+    "isRecommended": true,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 11,
+    "name": "TIMEX Classics 41 mm",
+    "brand": "TIMEX",
+    "price": 3170,
+    "image": "images/Timex Classics 41 mm.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": true
+  },
+  {
+    "id": 12,
+    "name": "TIMEX TW2W53300",
+    "brand": "TIMEX",
+    "price": 12200,
+    "image": "images/TIMEX TW2W53300.jpg",
+    "isRecommended": true,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 13,
+    "name": "TIMEX TW2V68000",
+    "brand": "TIMEX",
+    "price": 6500,
+    "image": "images/TIMEX TW2V68000.jpg",
+    "isRecommended": false,
+    "isPromo": true,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 14,
+    "name": "TIMEX TW2U41900",
+    "brand": "TIMEX",
+    "price": 6400,
+    "image": "images/TIMEX TW2U41900.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 15,
+    "name": "TIMEX Ironman Classic",
+    "brand": "TIMEX",
+    "price": 3000,
+    "image": "images/TIMEX Ironman Classic.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 16,
+    "name": "TISSOT PRX Серебристі",
+    "brand": "TISSOT",
+    "price": 20080,
+    "image": "images/TISSOT PRX.png",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 17,
+    "name": "TISSOT Classic Dream",
+    "brand": "TISSOT",
+    "price": 13700,
+    "image": "images/TISSOT Classic Dream.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": true
+  },
+  {
+    "id": 18,
+    "name": "TISSOT Stylist",
+    "brand": "TISSOT",
+    "price": 13790,
+    "image": "images/TISSOT Stylist.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 19,
+    "name": "TISSOT Everytime 40 mm",
+    "brand": "TISSOT",
+    "price": 15000,
+    "image": "images/TISSOT Everytime 40 mm.jpg",
+    "isRecommended": true,
+    "isPromo": false,
+    "isSaleOfDay": false
+  },
+  {
+    "id": 20,
+    "name": "TISSOT Chrono XL Classic",
+    "brand": "TISSOT",
+    "price": 21500,
+    "image": "images/TISSOT Chrono XL Classic.jpg",
+    "isRecommended": false,
+    "isPromo": false,
+    "isSaleOfDay": false
+  }
+
+]
